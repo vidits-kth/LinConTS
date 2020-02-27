@@ -5,9 +5,9 @@ This repository contains the code for running the simulations and generating the
 
 Saxena V., Gonzalez J.E., Jaldén J., Thompson Samplingh for Linearly Constrained Bandits, AISTATS 2020, Palmerno, Italy.
 
-The code simulates two algorithms: LinConTS and LinCon-KL-UCB. Details and pseudocode of the algorithms are available in the paper. Two real-world datasets are considered, which are available for download here:  
-1. [Coupon-purchase](https://www.kaggle.com/c/ coupon-purchase-prediction/data)
-2. [edX-course](HarvardX and MITx: Four years of open online courses–fall 2012-summer 2016)
+The code simulates two algorithms: LinConTS and LinCon-KL-UCB. Details and pseudocode of the algorithms are available in the paper. Two real-world datasets are considered, which are included under the datasets/ directory and are also available for download here:  
+1. [Coupon-purchase](https://www.kaggle.com/c/coupon-purchase-prediction/data)
+2. [edX-course](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2889436)
 
 ## Dependencies
 The code runs on Jupyter Notebook running a Python3 kernel. Further, the code depeds on the following libraries:  
