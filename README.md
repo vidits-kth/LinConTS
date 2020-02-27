@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the code for running the simulations and generating the plots reported in the following paper:  
 
-Saxena V., Gonzalez J.E., Jaldén J., Thompson Samplingh for Linearly Constrained Bandits, AISTATS 2020, Palmerno, Italy.
+Saxena V., Gonzalez J.E., Jaldén J., Thompson Sampling for Linearly Constrained Bandits, AISTATS 2020, Palmerno, Italy.
 
 The code simulates two algorithms: LinConTS and LinCon-KL-UCB. Details and pseudocode of the algorithms are available in the paper. Two real-world datasets are considered, which are included under the datasets/ directory and are also available for download here:  
 1. [Coupon-purchase](https://www.kaggle.com/c/coupon-purchase-prediction/data)
